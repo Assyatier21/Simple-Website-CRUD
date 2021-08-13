@@ -1,0 +1,25 @@
+.left{
+	float: left;
+	width: 700px;
+}
+.right{
+	float: right;
+	width: 400px;
+}
+
+.left .card img{
+	width: 700px;
+	height: 500px;
+}
+
+.left .card .card-body h3{
+	color : #03c4c4;
+}
+
+.left .carousel-item img{
+	width: 800px;
+	height: 500px;
+}
+.right .container .container2 .list-group-halo a{
+	text-align: center;
+}
